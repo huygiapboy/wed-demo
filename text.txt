@@ -1,0 +1,62 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My wed</title>
+    <link rel="stylesheet" href="css/aritice.css">
+</head>
+<body>
+    <header class="aritice">
+    <img src="https://previews.dropbox.com/p/thumb/ABQT5AESCm03T0vqg9OVJ-rrTvwt0uqfY-ZCBBbM6Qvp56JC4xy3_8jXwQa_a_0D3cuQoAiG7C7MgOvDaLOtL7j7mlj6XjvtQ8bA2gFYCwmXU2JmXiBwN8AX9gdji4oUPgzcwQ4MDxDKDl6bnkWme_74ELSOmtjfZgP6e_qcAtucWeM8DzFbhGLYycEt5L43J1KqV1R0OgO0ohJEA5FBLNmMCfOqZzDET28Kw5ipbk5UbQ_My2I_VSXfVDAgMONVw6rPgzsngTeKlceVuBKTukd1tbCXKcuz0sc3jm3x8bhxZq5Xgx9rUFB7AO9P7fuZyb1imbjpDKVX7itetH1Ey43oK08jFOSe_rgLMu3nOskVSg/p.jpeg?fv_content=true&size_mode=5" alt="" class="image" >
+    <div class="phone">
+        Số điện thoại: 0384850710
+
+    </div>
+    <div class="address">
+        Địa chỉ: Hàng Cơm 
+    </div>
+    <div class="contacts">
+        <div class="home">Home</div>
+        <div class="about">About</div>
+        <div class="contact">Contact</div>
+    </div>
+    </header>
+</body>
+</html> -->
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/aritice.css">
+    <link rel="stylesheet" href="css/reset.css">
+</head>
+<body>
+    <div class="overbox">
+        <div class="card-left">
+            <div class="About">About</div>
+            <div class="Lorem">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla sint dolor pariatur minima rerum obcaecati maiores eius voluptate quasi deleniti? Exercitationem itaque, dignissimos ab reprehenderit aspernatur impedit at omnis tenetur.</div>
+        </div>
+        <div class="card-right">
+            <div class="Quick-link">Quick Link</div>
+            <div class="card-right-under">
+                <ul class="card-right-under-left">
+                    <li><a href="mywed.html">Home</a></li>
+                    <li><a href="mywed.html">About</a></li>
+                    <li><a href="mywed.html">Sevice</a></li>
+                    <li><a href="mywed.html">Contact</a></li>
+                </ul>
+                <ul class="card-right-under-right">
+                    <li><a href="mywed.html">Careers</a></li>
+                    <li><a href="mywed.html">Privacy</a></li>
+                    <li><a href="mywed.html">Teams and Condition</a></li>
+                    <li><a href="mywed.html">Support</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html> -->
